@@ -1,0 +1,12 @@
+/Users/tom/Desktop/C#/Metodos/Metodos/bin/Debug/netcoreapp3.1/Metodos.deps.json
+/Users/tom/Desktop/C#/Metodos/Metodos/bin/Debug/netcoreapp3.1/Metodos.runtimeconfig.json
+/Users/tom/Desktop/C#/Metodos/Metodos/bin/Debug/netcoreapp3.1/Metodos.runtimeconfig.dev.json
+/Users/tom/Desktop/C#/Metodos/Metodos/bin/Debug/netcoreapp3.1/Metodos.dll
+/Users/tom/Desktop/C#/Metodos/Metodos/bin/Debug/netcoreapp3.1/Metodos.pdb
+/Users/tom/Desktop/C#/Metodos/Metodos/obj/Debug/netcoreapp3.1/Metodos.csprojAssemblyReference.cache
+/Users/tom/Desktop/C#/Metodos/Metodos/obj/Debug/netcoreapp3.1/Metodos.AssemblyInfoInputs.cache
+/Users/tom/Desktop/C#/Metodos/Metodos/obj/Debug/netcoreapp3.1/Metodos.AssemblyInfo.cs
+/Users/tom/Desktop/C#/Metodos/Metodos/obj/Debug/netcoreapp3.1/Metodos.csproj.CoreCompileInputs.cache
+/Users/tom/Desktop/C#/Metodos/Metodos/obj/Debug/netcoreapp3.1/Metodos.dll
+/Users/tom/Desktop/C#/Metodos/Metodos/obj/Debug/netcoreapp3.1/Metodos.pdb
+/Users/tom/Desktop/C#/Metodos/Metodos/obj/Debug/netcoreapp3.1/Metodos.genruntimeconfig.cache
